@@ -35,7 +35,7 @@ I design end-to-end solutions from model training and optimization to backend AP
 
 ---
 
-## 🌟 Selected Projects (Original)
+## 🌟 Selected Projects
 
 * 🧾 **AI Invoice Automation Workflow** — End-to-end automated pipeline utilizing n8n and cloud OCR
 * 📄 **Multilingual OCR Web Portal** — Flask-based application for extracting text from diverse documents
@@ -46,7 +46,7 @@ Explore more → 🌐 **Portfolio:** 👉 [https://theabdulmanan.vercel.app/](ht
 
 ---
 
-## 🤝 Let’s Build Something Intelligent (Original)
+## 🤝 Let’s Build Something Intelligent
 
 If you’re working on:
 * AI products
