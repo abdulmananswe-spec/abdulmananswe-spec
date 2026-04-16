@@ -21,17 +21,17 @@ I design end-to-end solutions — from model training and optimization to backen
 
 ## 🚀 Core Expertise
 
-### 🤖 Artificial Intelligence & Automation
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/N8N-000000?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/MAKE.COM-000000?style=for-the-badge&logo=make&logoColor=white" /> <img src="https://img.shields.io/badge/AGENTIC_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+### 🤖 Artificial Intelligence & Deep Learning
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white" /> <img src="https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
 
 ### 👁️ Computer Vision & Intelligent Systems
-<img src="https://img.shields.io/badge/IMAGE_PROCESSING-000000?style=for-the-badge&logo=googlelens&logoColor=white" /> <img src="https://img.shields.io/badge/OCR_PIPELINES-000000?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/DATA_EXTRACTION-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/IMAGE_PROCESSING-000000?style=for-the-badge&logo=googlelens&logoColor=white" /> <img src="https://img.shields.io/badge/OBJECT_DETECTION-000000?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/POSE_ESTIMATION-000000?style=for-the-badge&logo=body&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_SYSTEMS-000000?style=for-the-badge&logo=database&logoColor=white" />
 
-### 🌐 Full Stack & Web Development
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
+### 🌐 AIoT & Smart Automation
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ARDUINO-000000?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/SENSOR_INTEGRATION-000000?style=for-the-badge&logo=microchip&logoColor=white" /> <img src="https://img.shields.io/badge/EDGE_AI-000000?style=for-the-badge&logo=edge&logoColor=white" />
 
 ### ⚙️ Backend & Deployment
-<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
 
