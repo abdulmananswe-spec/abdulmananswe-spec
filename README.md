@@ -37,10 +37,8 @@ I design end-to-end solutions from model training and optimization to backend AP
 
 ## 🌟 Selected Projects
 
-* 🧾 **AI Invoice Automation Workflow** — End-to-end automated pipeline utilizing n8n and cloud OCR
-* 📄 **Multilingual OCR Web Portal** — Flask-based application for extracting text from diverse documents
+* 👁️ **Aetheris Bio-Sentinel** — Advanced autonomous biometric attendance core featuring real-time high-fidelity facial encoding and vector-averaged master model generation.
 * 🔍 **Cloud-based SEO Analyzer** — Comprehensive SaaS platform for optimizing web content
-* 📊 **Web Analytics System** — Real-time distributed architecture for tracking live data streams
 
 Explore more → 🌐 **Portfolio:** 👉 [https://theabdulmanan.vercel.app/](https://theabdulmanan.vercel.app/)
 
