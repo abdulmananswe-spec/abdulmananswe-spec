@@ -12,7 +12,7 @@ My work revolves around solving real-world problems using:
 * 👁️ Computer Vision
 * 🌐 AIoT & Smart Automation Systems
 
-I design end-to-end solutions — from model training and optimization to backend APIs and system deployment — bridging **hardware and software** to create impactful AI products.
+I design end-to-end solutions from model training and optimization to backend APIs and system deployment bridging **hardware and software** to create impactful AI products.
 
 **My mission:**
 > Transform complex data into intelligent decision-making systems.
